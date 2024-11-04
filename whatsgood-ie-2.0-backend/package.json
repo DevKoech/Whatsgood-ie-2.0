@@ -1,0 +1,19 @@
+{
+  "name": "whatsgood-ie-2.0-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "devKoech",
+  "license": "ISC",
+  "description": "WhatsApp-Clone",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongodb": "^6.10.0",
+    "mongoose": "^8.8.0",
+    "pusher": "^5.2.0"
+  }
+}
